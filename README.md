@@ -1,12 +1,12 @@
 # Python-Projects
 
-## Programming Projects based on the Language Python. These will also exclude data-driven projects. Those will be in a separate repository
+## Programming Projects based on the Language Python.
 
 ### Projects:
 - [x] Python Weather API Project
 - [ ] Python email automation
 - [ ] ChatGPT Challenges
 - [ ] Chatbot
-- [ ] Human vs Bot language Identifier
+- [ ] Human vs Bot Language Identifier
 - [ ] Age and Gender detection
 - [ ] Machine Learning
