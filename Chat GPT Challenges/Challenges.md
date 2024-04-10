@@ -1,7 +1,8 @@
 # I prompted Chat GPT to give me a variety of coding challenges in Python ranging in skill level and these are the challenges 
 
-1. - [ ] Hello World Challenge: Display "Hello, World!" on the console and make it print your name as well.
-2 - [ ]Variables and Data Types Challenge: Calculate the area of a rectangle using variables for length and width.
+1. <input type="checkbox" unchecked> Hello World Challenge: Display "Hello, World!" on the console and make it print your name as well.
+1. <input type="checkbox" checked> Variables and Data Types Challenge: Calculate the area of a rectangle using variables for length and width.
+
 User Input Challenge: Create a program that asks the user for two numbers and prints their sum.
 Conditional Statements Challenge: Write a program that determines if a given year is a leap year.
 Loops Challenge: Write a program that prints the Fibonacci sequence up to the 10th term using a loop.
