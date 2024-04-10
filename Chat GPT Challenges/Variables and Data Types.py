@@ -5,7 +5,7 @@
 # Explain program
 print("This program will find the area of any rectangle or square given the length and width.\n")
 
-# Get length and width from user:
+# Get length and width from the user:
 length = input("Enter the length of your rectangle in inches: ")
 width = input("Enter the width of your rectangle in inches: ")
 
