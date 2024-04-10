@@ -5,7 +5,7 @@
 # Explain program to user:
 print("This program will find the sum of any two numbers, enter them below.\n")
 
-# Ask user for two numbers:
+# Ask the user for two numbers:
 num1 = input("Enter your first number: ")
 num2 = input("Enter your second number: ")
 
