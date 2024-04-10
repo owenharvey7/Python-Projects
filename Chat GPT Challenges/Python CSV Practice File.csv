@@ -1,0 +1,6 @@
+﻿Name,Fname,Lname,Phone Number,Address,SSN,Department,Salary
+Alice Johnson,Alic,Johnson,555-1234,"123 Main St, Cityville, USA",123-45-6789,Sales,"$50,000 "
+Brian Smith,Brian,Smith,987-5678,"456 Oak Ave, Townsville, USA",987-65-4321,Marketing,"$65,000 "
+Clara Rodriguez,Clara,Rodriguez,321-8765,"789 Pine Rd, Villagetown, USA",876-54-3210,Finance,"$80,000 "
+David White,David,White,444-5555,"234 Elm Ln, Hamletville, USA",234-56-7890,IT,"$95,000 "
+Frank Martinez,Frank,Martinez,789-4321,"567 Maple Dr, Boroughburg, USA",567-89-0123,HR,"$110,000 "
