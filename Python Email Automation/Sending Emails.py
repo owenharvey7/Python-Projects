@@ -4,7 +4,7 @@ import ssl
 from email.message import EmailMessage
 
 # Defining the sender's email address and password
-sender_email = 'oharvey347@gmail.com'
+sender_email = 'youremail@gmail.com'
 password = open("password.txt", "r").read()
 
 # Defining the receiver's email address
