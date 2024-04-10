@@ -1,1 +1,0 @@
-Owen's favorite movies are: ['13 Hours', 'The Imitation Game', 'The Other Guys']
