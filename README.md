@@ -4,7 +4,7 @@
 
 ### Projects:
 - [x] Python Weather API Project
-- [ ] Python email automation
+- [x] Python email automation
 - [ ] ChatGPT Challenges
 - [ ] Chatbot
 - [ ] Human vs Bot Language Identifier
