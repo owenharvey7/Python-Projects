@@ -1,6 +1,6 @@
 # 9
 # Dictionaries Challenge:
-# Modify the books dictionary to include the publication year of each book.
+# Modify the book's dictionary to include the publication year of each book.
 
 # Explain Program
 print("This program will modify the books dictionary to include the publication year of each book.\n")
@@ -15,6 +15,6 @@ def add_year():
 
 add_year()
 
-# Print the books dictionary.
+# Print the book's dictionary.
 print(books)
 print()
