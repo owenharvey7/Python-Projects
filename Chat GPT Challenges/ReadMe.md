@@ -16,7 +16,7 @@
 - [x] Recursion Challenge: Write a recursive function to calculate the nth term of the Fibonacci sequence.
 - [x] API Integration Challenge: Fetch and display information about a specific user from the JSONPlaceholder API.
 - [x] Web Scraping Challenge: Scrape and print the titles of articles from a news website.
-- [] Basic GUI Challenge: Create a simple calculator using Tkinter that can perform addition, subtraction, multiplication, and division.
+- [x] Basic GUI Challenge: Create a simple calculator using Tkinter that can perform addition, subtraction, multiplication, and division.
 - [ ] Regular Expressions Challenge: Write a program that validates if a phone number is in the correct format using regular expressions.
 - [ ] Data Structures Challenge: Implement a linked list and perform basic operations like insertion and deletion.
 - [ ] Sorting Algorithms Challenge: Implement a more advanced sorting algorithm (e.g., merge sort) on a list of numbers.
