@@ -15,7 +15,7 @@
 | :-------------------: | :----------: |
 | Easy                  |    6  |
 | Medium                |    8    |
-| Hard                  |    4     |
+| Hard                  |    5     |
 #### Leetcode Problems
  - Leetcode Problems
  | Difficulty | # Completed |
