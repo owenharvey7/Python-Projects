@@ -11,14 +11,15 @@
 - ChatGPT Challenges
 (The difficulty for these was given by ChatGPT)
 
- | Difficulty | # Completed |
+| Difficulty | # Completed |
 | :-------------------: | :----------: |
 | Easy                  |    6  |
 | Medium                |    8    |
 | Hard                  |    5     |
 #### Leetcode Problems
  - Leetcode Problems
- | Difficulty | # Completed |
+
+| Difficulty | # Completed |
 | :-------------------: | :----------: |
 | Easy                  |    0  |
 | Medium                |    1    |
