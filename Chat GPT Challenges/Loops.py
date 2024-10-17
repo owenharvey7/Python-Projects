@@ -1,6 +1,9 @@
+"""
 # 5
 # Loops Challenge:
 # Write a program that prints the Fibonacci sequence up to the 10th term using a loop.
+# Difficulty: Medium
+"""
 
 # Explain Program
 print("This program will print the Fibonacci sequence up to the nth term based on your input.\n")

@@ -1,6 +1,9 @@
+"""
 # 2
 # Variables and Data Types Challenge:
 # Calculate the area of a rectangle using variables for length and width.
+# Difficulty: Easy
+"""
 
 # Explain program
 print("This program will find the area of any rectangle or square given the length and width.\n")

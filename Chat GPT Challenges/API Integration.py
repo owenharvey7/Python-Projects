@@ -1,7 +1,9 @@
+"""
 # 15
 # API Integration Challenge:
 # Fetch and display information about a specific user from the JSONPlaceholder API.
-
+# Difficulty: Hard
+"""
  # api
 import requests
 

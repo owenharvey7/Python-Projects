@@ -1,6 +1,9 @@
+"""
 # 6
 # Lists Challenge:
 # Create a program that asks the user for their favorite movies and stores them in a list.
+# Difficulty: Easy
+"""
 
 # Explain program to user:
 print("This program will ask you for your favorite movies and store them in a list.\n")

@@ -1,6 +1,10 @@
+"""
 # 16
 # Web Scraping Challenge:
 # Scrape and print the titles of articles from a news website.
+# Difficulty: Hard
+"""
+
 import requests
 from bs4 import BeautifulSoup
 

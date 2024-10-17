@@ -1,6 +1,9 @@
+"""
 # 7
 # Functions Challenge:
 # Write a function that checks if a given number is prime.
+# Difficulty: Medium
+"""
 
 # Explain Program
 print("This program will check if a given number is prime.\n")

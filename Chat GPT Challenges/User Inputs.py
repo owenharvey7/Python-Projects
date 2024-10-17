@@ -1,6 +1,9 @@
+"""
 # 3
 # User Input Challenge:
 # Create a program that asks the user for two numbers and prints their sum.
+# Difficulty: Easy
+"""
 
 # Explain program to user:
 print("This program will find the sum of any two numbers, enter them below.\n")

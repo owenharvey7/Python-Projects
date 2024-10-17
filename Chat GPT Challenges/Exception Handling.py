@@ -1,7 +1,9 @@
+"""
 # 11
 # Exception Handling Challenge:
 # Modify the division program to handle different types of exceptions and provide appropriate error messages.
-
+# Diffuclty: Medium
+"""
 def divide(a, b):
     try:
         return int(a) / int(b)

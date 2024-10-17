@@ -1,7 +1,9 @@
+"""
 # 9
 # Dictionaries Challenge:
 # Modify the book's dictionary to include the publication year of each book.
-
+# Diffculty: Medium
+"""
 # Explain Program
 print("This program will modify the books dictionary to include the publication year of each book.\n")
 

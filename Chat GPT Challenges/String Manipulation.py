@@ -1,6 +1,9 @@
+"""
 # 8
 # String Manipulation Challenge:
 # Create a program that counts the occurrences of a specific letter in a given string.
+# Difficulty: Easy
+"""
 
 # Explain Program
 print("This program will count the occurrences of a specific letter in a given string.\n")

@@ -1,6 +1,9 @@
+"""
 # 18
-#Regular Expressions Challenge:
-#Write a program that validates if a phone number is in the correct format using regular expressions.
+# Regular Expressions Challenge:
+# Write a program that validates if a phone number is in the correct format using regular expressions.
+# Difficulty: Medium
+"""
 
 import re
 import tkinter as tk

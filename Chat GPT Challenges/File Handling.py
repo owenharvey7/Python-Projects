@@ -1,6 +1,9 @@
+"""
 # 10
 # File Handling Challenge:
 # Read data from a CSV file and print it in a structured way.
+# Difficulty: Medium
+"""
 
 # import pandas to read the CSV file
 import pandas as pd
