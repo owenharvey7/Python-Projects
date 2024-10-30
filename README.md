@@ -21,5 +21,6 @@
 
 | Difficulty | # Completed |
 | :-------------------: | :----------: |
-| Easy                  |    0  |
+| Easy                  |    4  |
 | Medium                |    1    |
+| Hard                  |    1    |
