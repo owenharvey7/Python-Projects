@@ -4,7 +4,8 @@
 
 ### Projects:
 - [x] Python Weather API Project
-- [x] Python email automation
+- [x] Python Email Automation
+- [x] GraphiQL Data Export
 - [ ] Chatbot
 
 ### Problems:
