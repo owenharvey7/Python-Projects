@@ -1,0 +1,24 @@
+query {
+  tags(filter: {nameWithin: ["Filter_Tag"]}) {
+    flows {
+      id
+      name
+      description
+      site {
+        uri
+      }
+      tags {
+        name
+      }
+    }
+    publishedDatasources{
+      id
+      name
+      description
+      uri
+      tags {
+        name
+      }
+    }
+  }
+}
