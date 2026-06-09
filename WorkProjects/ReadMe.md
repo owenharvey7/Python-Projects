@@ -4,5 +4,5 @@
 
 ### Projects:
 - [x] SAP Datsphere SQL Query
-- [ ] API Call to Thales to Extract Reports
+- [x] API Call to Thales to Extract Reports
 - [ ] File Automation
